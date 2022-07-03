@@ -14,8 +14,10 @@ This project is also the first project for the programming subject by the Github
 -----------------------------------------------
 **Proposed feature set**<br>
 **A Windows 11, WinUI inspired library management dashboard for the librarian.**<br>
+
 The refreshed WinUI Fluent Design, along with familiar library management functions will be present inside the new system
 to make the librarians focus on what's more important by removing the most obstacles in manual library processses.
+
 <img src="C:\Users\nesto\Desktop\PNS Automated Library System\dashboard.png">
 -----------------------------------------------
 **Release schedule?**
