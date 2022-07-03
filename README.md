@@ -23,6 +23,7 @@ The image above is not indicative of the final product as it may or may not ship
 
 -----------------------------------------------
 **Release schedule?**
-Since this is a project of the proponent, this undertaking will last unti next year, where the first iterations will be publ
+Since this is a project of the proponent, this undertaking will last unti next year, where the first iterations will be published to the general public.<br>
+Right now, the entire project is only at the pre-development phase, where designing is still not finalized yet.
 
 
