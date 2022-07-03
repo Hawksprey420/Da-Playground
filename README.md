@@ -5,16 +5,18 @@ PNS Automated Library System
 -----------------------------------------------
 **Introducing a way to automate Palawan National School's library system**
 
-PNS Automated Library System is a proposed automated library management system that automates the common library processes into one singular system to
+PNS Automated Library System is a proposed automated library management system for Palawan National School that automates the common library processes into one singular system to
 move the entire library into digital system, which is more reliable and easier for both librarians and students. 
 
-This project will attempt to automate the entire library system the school uses, and to improve it's day to day function for both students and faculty. <br>
+This project will be an attempt to automate the entire library system the school uses, from the current analog and paper system with the intention to improve it's day to day function for both students and faculty. <br>
 This project is also the first project for the programming subject by the Github user, who is under TVL-ICT specialization this 12th Grade in Palawan National School.
 
 -----------------------------------------------
 **Proposed feature set**<br>
 **A Windows 11, WinUI inspired library management dashboard for the librarian.**<br>
-
+The refreshed WinUI Fluent Design, along with familiar library management functions will be present inside the new system
+to make the librarians focus on what's more important by removing the most obstacles in manual library processses.
+<img src="C:\Users\nesto\Desktop\PNS Automated Library System\dashboard.png">
 -----------------------------------------------
 **Release schedule?**
 
