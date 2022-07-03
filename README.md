@@ -18,7 +18,7 @@ This project is also the first project for the programming subject by the Github
 The refreshed WinUI Fluent Design, along with familiar library management functions will be present inside the new system
 to make the librarians focus on what's more important by removing the most obstacles in manual library processses.
 
-![Dashboard for PNS Automated Library System](C:\Users\nesto\Desktop\PNS Automated Library System\dashboard.png "San Juan Mountains")
+![Dashboard for PNS Automated Library System](C:\Users\nesto\source\repos\Hawksprey420\PNS-Automated-Library-System\README.md asset\dashboard.png)
 -----------------------------------------------
 **Release schedule?**
 
