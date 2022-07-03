@@ -18,9 +18,11 @@ This project is also the first project for the programming subject by the Github
 The refreshed WinUI Fluent Design, along with familiar library management functions will be present inside the new system
 to make the librarians focus on what's more important by removing the most obstacles in manual library processses.
 
-![dashboard](https://user-images.githubusercontent.com/75325547/177040783-bb5e4153-6d56-49b8-b5de-f37581f574b3.png)
+
+The image above is not indicative of the final product as it may or may not ship with the final release of the library system.
+
 -----------------------------------------------
 **Release schedule?**
-
+Since this is a project of the proponent, this undertaking will last unti next year, where the first iterations will be publ
 
 
