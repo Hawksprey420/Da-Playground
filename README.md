@@ -12,7 +12,7 @@ This project will attempt to automate the entire library system the school uses,
 This project is also the first project for the programming subject by the Github user, who is under TVL-ICT specialization this 12th Grade in Palawan National School.
 
 -----------------------------------------------
-**Proposed feature set**
+**Proposed feature set**<br>
 A Windows 11, WinUI inspired library management dashboard for the librarian.
 
 -----------------------------------------------
