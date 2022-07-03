@@ -19,6 +19,7 @@ The refreshed WinUI Fluent Design, along with familiar library management functi
 to make the librarians focus on what's more important by removing the most obstacles in manual library processses.
 
 <img src="C:\Users\nesto\Desktop\PNS Automated Library System\dashboard.png">
+
 -----------------------------------------------
 **Release schedule?**
 
