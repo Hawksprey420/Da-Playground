@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PNS-Library-Dashboard (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "PNS-Library-Dashboard (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
