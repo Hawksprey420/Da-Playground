@@ -23,6 +23,7 @@ The image above is not indicative of the final product as it may or may not ship
 
 
 **Batch book enrollment will make book inventory addition more effortless**<br>
+
 With batch book enrollment, you can enroll boxes or catalogs of books either by a catalog file from the book publisher, or manual entry.
 -----------------------------------------------
 **Release schedule?**<br>
