@@ -21,8 +21,11 @@ to make the librarians focus on what's more important by removing the most obsta
 
 The image above is not indicative of the final product as it may or may not ship with the final release of the library system.
 
+
+**Batch book enrollment will make book inventory addition more effortless**<br>
+With batch book enrollment, you can enroll boxes or catalogs of books either by a catalog file from the book publisher, or manual entry.
 -----------------------------------------------
-**Release schedule?**
+**Release schedule?**<br>
 Since this is a project of the proponent, this undertaking will last unti next year, where the first iterations will be published to the general public.<br>
 Right now, the entire project is only at the pre-development phase, where designing is still not finalized yet.
 
