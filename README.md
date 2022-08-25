@@ -15,7 +15,7 @@ This project is also the first project for the programming subject by the Github
 **Proposed feature set**<br>
 **A Windows 11, WinUI inspired library management dashboard for the librarian.**<br>
 
-The refreshed WinUI Fluent Design, along with familiar library management functions will be present inside the new system
+Inspired by WinUI Fluent Design in Windows 11, the new design will come along with familiar library management functions and will be present inside the new system
 to make the librarians focus on what's more important by removing the most obstacles in manual library processses.
 
 
@@ -24,7 +24,9 @@ The image above is not indicative of the final product as it may or may not ship
 
 **Batch book enrollment will make book inventory addition more effortless**<br>
 
+
 With batch book enrollment, you can enroll boxes or catalogs of books either by a catalog file from the book publisher, or manual entry.
+
 -----------------------------------------------
 **Release schedule?**<br>
 Since this is a project of the proponent, this undertaking will last unti next year, where the first iterations will be published to the general public.<br>
