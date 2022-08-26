@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\PNS-Library-Dashboard"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\PNS-Library-Dashboard\\MainWindow.xaml.cs",
   "PreviewInSolutionExplorer": false
 }

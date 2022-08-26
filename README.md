@@ -2,6 +2,7 @@
 **PROJECT IN PROGRESS, NOT YET FINALIZED**
 
 -----------------------------------------------
+**PROJECT AKLATAN**
 **Introducing a way to automate Palawan National School's library system**
 
 PNS Automated Library System is a proposed automated library management system for Palawan National School that automates the common library processes into one singular system to
@@ -32,7 +33,7 @@ With batch book enrollment, you can enroll boxes or catalogs of books either by 
 
 -----------------------------------------------
 **Release schedule?**<br>
-ince this is a project of the proponent, this undertaking will last until next year, where the first iterations will only start to be published to the general public.<br>
+Since this is a project of the proponent, this undertaking will last until next year, where the first iterations will only start to be published to the general public.<br>
 Right now, the entire project is only at the pre-development phase, where designing is still not finalized yet.
 
 
