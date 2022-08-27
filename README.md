@@ -2,7 +2,7 @@
 **PROJECT IN PROGRESS, NOT YET FINALIZED**
 
 -----------------------------------------------
-**PROJECT AKLATAN**
+**PROJECT AKLATAN**<br>
 **Introducing a way to automate Palawan National School's library system**
 
 PNS Automated Library System is a proposed automated library management system for Palawan National School that automates the common library processes into one singular system to
