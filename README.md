@@ -36,6 +36,7 @@ With batch book enrollment, you can enroll boxes or catalogs of books either by 
 Since this is a project of the proponent, this undertaking will last until next year, where the first iterations will only start to be published to the general public.<br>
 Right now, the entire project is only at the pre-development phase, where designing is still not finalized yet.
 
+------------------------------------------------
 **Project Phase**<br>
 As of August 31 2022, the project is still on user interface design phase on Figma.
 
