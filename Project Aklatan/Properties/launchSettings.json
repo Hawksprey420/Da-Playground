@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Project Aklatan (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Project Aklatan (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
